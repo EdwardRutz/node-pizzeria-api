@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/EdwardRutz/node-pizzeria-api"
+  },
   "dependencies": {
     "claudia-api-builder": "^4.1.2",
     "claudia-bot-builder": "^4.5.0"
