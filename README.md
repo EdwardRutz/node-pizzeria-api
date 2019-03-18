@@ -4,7 +4,7 @@
 
 
 
-## API Features
+## API Features and Routes
 
 - Lists all pizzas
 - Look up pizza orders
@@ -20,11 +20,6 @@
 - AWS CLI
 
 
-## API Routes
-
-- Pizza Menu, https://uaa3y45b1e.execute-api.us-east-1.amazonaws.com/latest/pizzas
-- A specific pizza (ID: 0-4), https://uaa3y45b1e.execute-api.us-east-1.amazonaws.com/latest/pizzas/1
-- Root path with user friendly message and not an error code, https://uaa3y45b1e.execute-api.us-east-1.amazonaws.com/latest/
 
 
 ## Notes
