@@ -20,6 +20,11 @@
 - AWS CLI
 
 
+## API Routes Examples
+
+- Pizza Menu, https://sbb3t98b1e.execute-api.us-east-1.amazonaws.com/latest/menu
+- A specific pizza (ID: 0-4), https://sbb3t98b1e.execute-api.us-east-1.amazonaws.com/latest/menu/1
+- Root path with user friendly message and not an error code, https://sbb3t98b1e.execute-api.us-east-1.amazonaws.com/latest/
 
 
 ## Notes
